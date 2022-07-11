@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "todos",
   "version": "1.0.0",
-  "homepage": "https://tiltedveggie.github.io/Todo-List-App",
+  "homepage": "https://rameshmeduri.github.io/todos",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

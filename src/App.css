@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Red Hat Text', sans-serif;
+  color: #f2f2f2;
+  text-align: center;
+}
+
+body {
+  background-color: #222222;
+}
+
+input:focus {
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
